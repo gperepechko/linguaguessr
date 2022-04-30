@@ -1,15 +1,13 @@
 from game import Game
-g = Game()
+g = Game(debug=True)
 while True:
-    guess = input('Make a guess')
-    dist = g.make_guess(guess)
-    if dist == None:
-        print('Not valid language')
-        continue
-    if dist == 0:
-        print('Congratulations!')
+    guess = input('Make a guess\n')
+    if guess == '':
+        print('Game has stopped')
         break
-    if dist > 1000:
-        print('Cold')
-    if dist <= 1000:
-        print('Hot!')
+    status = g.make_guess(guess)
+    if not status:
+        print('This language does not exist')
+        continue
+    print(status)
+    
