@@ -18,6 +18,7 @@ class Game:
             print(self.language, self.langloc[self.language])
 
     def make_guess(self, lang):
+        lang = lang.lower()
         if self.status != 'run':
             return 'Game finished'
         if lang not in self.langloc:

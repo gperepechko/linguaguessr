@@ -2,33 +2,37 @@ import telebot
 from keys import token
 from telebot import types
 from game import Game
-g = Game(debug=True)
+DEBUG = True
 
+games = dict()
 bot=telebot.TeleBot(token)
 @bot.message_handler(commands=['start'])
 def start_message(message):
     bot.send_message(message.chat.id,"Welcome to Linguaguessr! I am thinking of a certain language. Can you guess which one it is?\n" +
     "Send me 'Begin' to start a new game")
+    global games
+    games[message.chat.id] = Game(debug=DEBUG)
 
-@bot.message_handler(commands=['button'])
-def button_message(message):
-    markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
-    item1=types.KeyboardButton("Start")
-    markup.add(item1)
-    bot.send_message(message.chat.id,'Выберите что вам надо',reply_markup=markup)
-    # markup = types.ReplyKeyboardMarkup(row_width=2)
-    # itembtn1 = types.KeyboardButton('a')
-    # itembtn2 = types.KeyboardButton('v')
-    # markup.add(itembtn1, itembtn2)
-    # tb.send_message(chat_id, "Choose one letter:", reply_markup=markup)
+# @bot.message_handler(commands=['button'])
+# def button_message(message):
+#     markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+#     item1=types.KeyboardButton("Start")
+#     markup.add(item1)
+#     bot.send_message(message.chat.id,'Выберите что вам надо',reply_markup=markup)
 
 @bot.message_handler(content_types='text')
 def message_reply(message):
-    global g
+    global games
+    try:
+        g = games[message.chat.id]
+    except KeyError:
+        bot.send_message(message.chat.id,"To start the game send /start")
+        print('User plays without /start') 
+        return
     if message.text=="Begin":
         bot.send_message(message.chat.id,"Game has started")
         bot.send_message(message.chat.id,"Make a guess")
-        g = Game(debug=True)
+        games[message.chat.id] = Game(debug=DEBUG)
         return
     if message.text=="End":
         bot.send_message(message.chat.id,"Game has stopped")
