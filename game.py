@@ -5,7 +5,7 @@ from formula import distance
 class Game:
     def __init__(self, debug=False) -> None:
         self.guessed_langs = []
-        df = pd.read_csv('Languages.csv')
+        df = pd.read_csv('Languages_eurasia.csv')
         self.languages = set(df['ascii_name'])
         self.language = random.sample(self.languages, 1)[0]
         self.langloc = dict()
