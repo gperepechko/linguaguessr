@@ -1,0 +1,655 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+abaza,,7,abz,abq,{},44.0,42.0,Eurasia,,Abaza,16,False,False
+abkhaz,,7,abk,abk,{},43.0833333333,41.0,Eurasia,,Abkhaz,9,True,True
+acehnese,,14,ace,ace,{},5.5,95.5,Eurasia,,Acehnese,17,False,False
+achang,,20,acn,acn,{},25.0,98.5,Eurasia,,Achang,23,False,False
+adyghe abzakh,,7,ady,ady,{},45.2333333333,40.5833333333,Eurasia,,Adyghe (Abzakh),32,False,False
+adyghe shapsugh,,7,ash,ady,{},45.0,38.75,Eurasia,,Adyghe (Shapsugh),152,False,False
+adyghe temirgoy,,7,adt,ady,{},45.2166666667,39.7,Eurasia,,Adyghe (Temirgoy),31,False,False
+aghul,,32,agl,agx,{},41.75,47.6666666667,Eurasia,,Aghul,43,False,False
+ainu,,40,ain,ain,{},43.0,143.0,Eurasia,,Ainu,55,False,True
+akabiada,,43,akb,abj,{},11.6666666667,92.5,Eurasia,,Aka-Biada,61,False,False
+akacari,,43,akc,aci,{},13.5,93.0,Eurasia,,Aka-Cari,62,False,False
+akakede,,43,akk,akx,{},12.75,92.75,Eurasia,,Aka-Kede,64,False,False
+akha,,20,akh,ahk,{},21.8333333333,99.8333333333,Eurasia,,Akha,63,False,False
+akhvakh,,74,axv,akv,{},42.3333333333,46.3333333333,Eurasia,,Akhvakh,187,False,False
+albanian,,47,alb,"aln, als",{},41.0,20.0,Eurasia,,Albanian,72,False,False
+alsatian,,27,alt,gsw,{},48.5,7.5,Eurasia,,Alsatian,81,False,False
+altai southern,,83,aso,alt,{},51.0,87.0,Eurasia,,Altai (Southern),155,False,False
+alutor,,51,alu,alr,{},61.0,165.0,Eurasia,,Alutor,82,False,False
+amdo,,56,amd,adx,{},35.0,100.0,Eurasia,,Amdo,89,False,False
+amdo themchen,,56,amt,adx,{},38.0,98.0,Eurasia,,Amdo (Themchen),102,False,False
+andi,,74,anx,ani,{},42.75,46.25,Eurasia,,Andi,117,False,False
+angami,,33,agm,"njm, nri",{},25.6666666667,94.5,Eurasia,,Angami,44,False,False
+anong,,72,ano,nun,{},27.3333333333,98.75,Eurasia,,Anong,114,False,False
+ao,,33,ao,njo,{},26.5833333333,94.6666666667,Eurasia,,Ao,119,False,False
+apatani,,76,apt,apt,{},27.5,93.75,Eurasia,,Apatani,128,False,False
+apucikwar,,43,apk,apq,{},12.1666666667,92.8333333333,Eurasia,,A-Pucikwar,126,False,False
+arabic bahrain,,4,abh,abv,{},26.0,50.5,Eurasia,,Arabic (Bahrain),7,False,False
+arabic beirut,,4,abe,apc,{},33.9166666667,35.5,Eurasia,,Arabic (Beirut),6,False,False
+arabic gulf,,4,arg,afb,{},26.0,49.0,Eurasia,,Arabic (Gulf),135,False,False
+arabic hijazi,,4,arh,acw,{},26.0,38.0,Eurasia,,Arabic (Hijazi),136,False,False
+arabic iraqi,,4,arq,acm,{},33.0,44.0,Eurasia,,Arabic (Iraqi),145,False,False
+arabic kormakiti,,4,ako,acy,{},35.25,33.5,Eurasia,,Arabic (Kormakiti),68,False,False
+arabic kuwaiti,,4,arj,afb,{},29.5,47.5,Eurasia,,Arabic (Kuwaiti),138,False,False
+arabic lebanese,,4,arl,apc,{},34.0,36.0,Eurasia,,Arabic (Lebanese),140,False,False
+arabic modern standard,,4,ams,arb,{},25.0,42.0,Eurasia,,Arabic (Modern Standard),101,False,False
+arabic negev,,4,arv,ajp,{},30.5,34.75,Eurasia,,Arabic (Negev),148,False,False
+arabic north levantine spoken,,4,anl,apc,{},33.75,36.0,Eurasia,,Arabic (North Levantine Spoken),112,False,False
+arabic palestinian,,4,apa,ajp,{},32.0,35.25,Eurasia,,Arabic (Palestinian),121,False,False
+arabic sanani,,4,ars,ayn,{},16.0,44.0,Eurasia,,Arabic (San'ani),147,False,False
+arabic syrian,,4,asy,apc,{},34.0,38.0,Eurasia,,Arabic (Syrian),159,False,False
+arakanese marma,,20,akm,rmz,{},21.5,92.5,Eurasia,,Arakanese (Marma),66,False,False
+archi,,32,arc,aqc,{},42.0,46.8333333333,Eurasia,,Archi,133,False,False
+armenian eastern,,81,arm,hye,{},40.0,45.0,Eurasia,,Armenian (Eastern),141,False,True
+armenian iranian,,81,arz,hye,{},32.6666666667,51.6666666667,Eurasia,,Armenian (Iranian),151,False,False
+armenian western,,81,arw,hye,{},38.5,43.5,Eurasia,,Armenian (Western),149,False,False
+assamese,,84,ass,asm,{},26.0,93.0,Eurasia,,Assamese,156,False,False
+asturian,,85,ast,ast,{},43.25,-6.0,Eurasia,,Asturian,157,False,False
+athpare,,88,ath,aph,{},27.0,87.3333333333,Eurasia,,Athpare,163,False,False
+avar,,74,ava,ava,{},42.5,46.5,Eurasia,,Avar,174,False,False
+awadhi,,84,awd,awa,{},27.5,81.5,Eurasia,,Awadhi,179,False,False
+aynu,,83,ayn,aib,{},39.5,76.0,Eurasia,,Aynu,190,False,False
+azari iranian,,83,azi,azb,{},37.5,47.0,Eurasia,,Azari (Iranian),195,False,False
+azerbaijani,,83,aze,"azb, azj",{},40.5,48.5,Eurasia,,Azerbaijani,194,False,False
+badaga,,116,bdg,bfq,{},11.6666666667,76.75,Eurasia,,Badaga,226,False,False
+bagri,,84,bgi,bgq,{},29.5833333333,74.3333333333,Eurasia,,Bagri,248,False,False
+bagvalal,,74,bgv,kva,{},42.5833333333,46.1666666667,Eurasia,,Bagvalal,255,False,False
+bahnar,,157,bpb,bdq,{},13.8333333333,108.333333333,Eurasia,,Bahnar,335,False,False
+bai,,105,bai,bca,{},26.0,100.0,Eurasia,,Bai,204,False,False
+balti,,56,blt,bft,{},35.0,76.0,Eurasia,,Balti,294,False,False
+baluchi,,138,blc,bgp,{},28.0,62.0,Eurasia,,Baluchi,286,False,False
+baoan,,110,bao,peh,{},35.75,102.833333333333,Eurasia,,Bao'an,210,False,False
+baragaunle,,56,brl,loy,{},28.8333333333,83.8333333333,Eurasia,,Baragaunle,356,False,False
+bashkir,,83,bsk,bak,{},53.0,58.0,Eurasia,,Bashkir,371,False,False
+basque,,158,bsq,eus,{},43.0,-3.0,Eurasia,,Basque,375,True,True
+basque basaburua and imoz,,158,bqi,eus,{},43.0,-1.66666666667,Eurasia,,Basque (Basaburua and Imoz),339,False,False
+basque bidasoa valley,,158,bqb,eus,{},43.0,-3.83333333333,Eurasia,,Basque (Bidasoa Valley),336,False,False
+basque gernica,,158,bqg,eus,{},43.3333333333,-3.0,Eurasia,,Basque (Gernica),337,False,False
+basque hondarribia,,158,bqh,eus,{},42.5,-3.0,Eurasia,,Basque (Hondarribia),338,False,False
+basque lekeitio,,158,bql,eus,{},43.0,-2.5,Eurasia,,Basque (Lekeitio),340,False,False
+basque northern high navarrese,,158,bqn,eus,{},43.3333333333,-2.5,Eurasia,,Basque (Northern High Navarrese),341,False,False
+basque onati,,158,bqo,eus,{},42.5,-3.5,Eurasia,,Basque (Oñati),342,False,False
+basque roncalese,,158,bqr,eus,{},43.0,-2.0,Eurasia,,Basque (Roncalese),343,False,False
+basque sakana,,158,bqs,eus,{},42.5,-2.0,Eurasia,,Basque (Sakana),344,False,False
+basque souletin,,158,bso,eus,{},43.5,-1.5,Eurasia,,Basque (Souletin),374,False,False
+basque zeberio,,158,bqz,eus,{},42.0,-3.0,Eurasia,,Basque (Zeberio),345,False,False
+bathari,,4,bth,bhm,{},18.0,56.0,Eurasia,,Bathari,377,False,False
+bawm,,33,baw,bgr,{},22.5,92.25,Eurasia,,Bawm,216,False,True
+belhare,,88,bel,byw,{},26.9666666667,87.3,Eurasia,,Belhare,236,False,False
+belorussian,,141,blr,bel,{},54.0,28.0,Eurasia,,Belorussian,293,False,False
+bengali,,84,ben,ben,{},24.0,90.0,Eurasia,,Bengali,238,False,False
+bengali chittagong,,84,bec,ctg,{},22.3333333333,91.8333333333,Eurasia,,Bengali (Chittagong),232,False,False
+betta kurumba,,116,bkb,xub,{},11.5,76.75,Eurasia,,Betta Kurumba,277,False,False
+bezhta,,74,bez,kap,{},42.0833333333,46.1666666667,Eurasia,,Bezhta,242,False,False
+bhili,,84,bhi,bhb,{},22.0,73.0,Eurasia,,Bhili,257,False,False
+bhojpuri,,84,bho,bho,{},26.0,84.0,Eurasia,,Bhojpuri,259,False,False
+bhumij,,129,bhu,unr,{},21.3333333333,86.5,Eurasia,,Bhumij,260,False,False
+bisu,,20,biu,"bzi, lwm",{},19.75,100.0,Eurasia,,Bisu,274,False,False
+bodo,,155,bod,brx,{},26.8333333333,92.0,Eurasia,,Bodo,323,False,False
+bokar,,76,boq,adi,{},28.5,94.6666666667,Eurasia,,Bokar,329,False,False
+bori,,76,boj,adi,{},28.3333333333,94.75,Eurasia,,Bori,325,False,False
+bosnian,,141,bos,bos,{},43.0,18.0,Eurasia,,Bosnian,331,False,False
+brahui,,163,brh,brh,{},28.5,67.0,Eurasia,,Brahui,352,False,True
+brao,,157,bra,brb,{},14.1666666667,107.5,Eurasia,,Brao,346,False,False
+breton,,162,bre,bre,{},48.0,-3.0,Eurasia,,Breton,350,False,False
+british sign language,,23,bsl,bfi,{},52.0,-1.0,Eurasia,,British Sign Language,372,False,False
+brokskat,,84,bkt,bkk,{},35.3333333333,76.5,Eurasia,,Brokskat,283,False,False
+bru eastern,,167,bru,bru,{},17.3333333333,106.0,Eurasia,,Bru (Eastern),364,False,False
+bru western,,167,brw,brv,{},16.75,104.75,Eurasia,,Bru (Western),365,False,False
+budukh,,32,bdk,bdk,{},41.1666666667,48.4166666667,Eurasia,,Budukh,227,False,False
+bugun,,127,bgn,,{},27.5,92.5833333333,Eurasia,,Bugun,251,False,False
+bulgarian,,141,bul,bul,{},42.5,25.0,Eurasia,,Bulgarian,388,False,False
+bunan,,56,ghr,bfu,{},32.5,77.0,Eurasia,,Bunan,739,False,False
+bunu younuo,,292,pnu,buh,{},24.0,107.0,Eurasia,,Bunu (Younuo),1916,False,False
+buriat,,110,but,bxm,{},52.0,108.0,Eurasia,,Buriat,393,False,False
+burmese,,20,brm,mya,{},21.0,96.0,Eurasia,,Burmese,357,True,True
+burushaski,,172,bur,bsk,{},36.5,74.5,Eurasia,,Burushaski,391,True,True
+byansi,,56,bya,bee,{},30.1666666667,80.5,Eurasia,,Byansi,401,False,False
+camling,,88,cml,rab,{},27.0,86.6666666667,Eurasia,,Camling,476,False,False
+cantonese,,204,cnt,yue,{},23.0,113.0,Eurasia,,Cantonese,483,False,False
+catalan,,85,ctl,cat,{},41.75,2.0,Eurasia,,Catalan,523,False,False
+chaldean modern,,4,cld,cld,{},36.0,43.0,Eurasia,,Chaldean (Modern),467,False,False
+chamalal,,74,chm,cji,{},42.55,46.05,Eurasia,,Chamalal,445,False,False
+cham eastern,,14,cme,cjm,{},11.3333333333,108.5,Eurasia,,Cham (Eastern),473,False,False
+cham western,,14,chw,cja,{},12.0,105.5,Eurasia,,Cham (Western),455,False,False
+chang,,188,chg,nbc,{},26.3333333333,94.75,Eurasia,,Chang,439,False,False
+chantyal,,56,chn,chx,{},28.5833333333,83.4166666667,Eurasia,,Chantyal,446,False,False
+chaudangsi,,56,chd,cdn,{},30.0,80.25,Eurasia,,Chaudangsi,437,False,False
+chechen,,186,chc,che,{},43.25,45.8333333333,Eurasia,,Chechen,436,False,False
+chepang,,88,cpn,cdm,{},27.6666666667,84.75,Eurasia,,Chepang,498,False,False
+chinese sign language,,23,csl,csl,{},35.0,115.0,Eurasia,,Chinese Sign Language,518,False,False
+chin mara,,33,cmr,mrh,{},23.0,93.1666666667,Eurasia,,Chin (Mara),478,False,False
+chin siyin,,33,chs,csy,{},23.8333333333,94.0,Eurasia,,Chin (Siyin),451,False,False
+chin tiddim,,33,cti,ctd,{},23.3333333333,93.6666666667,Eurasia,,Chin (Tiddim),522,False,False
+chrau,,157,chr,crw,{},10.75,107.5,Eurasia,,Chrau,450,False,False
+chru,,14,crh,cje,{},11.5,108.5,Eurasia,,Chru,504,False,False
+chukchi,,51,chk,ckt,{},67.0,-173.0,Eurasia,,Chukchi,443,True,True
+chulym,,83,cly,clw,{},54.3333333333,89.6666666667,Eurasia,,Chulym,470,False,False
+chuvash,,83,chv,chv,{},55.5,47.5,Eurasia,,Chuvash,454,False,False
+cornish,,162,crn,cor,{},50.3333333333,-5.0,Eurasia,,Cornish,509,False,False
+crimean tatar,,83,cri,crh,{},45.0,34.0833333333,Eurasia,,Crimean Tatar,505,False,False
+cua,,157,cua,cua,{},15.25,108.5,Eurasia,,Cua,527,False,False
+czech,,141,cze,ces,{},50.0,15.0,Eurasia,,Czech,544,False,False
+dagur,,110,dgr,dta,{},48.0,124.0,Eurasia,,Dagur,576,False,False
+danish,,27,dsh,dan,{},56.0,10.0,Eurasia,,Danish,620,False,False
+darai,,84,dar,dry,{},24.0,84.0,Eurasia,,Darai,553,False,False
+dargwa,,240,drg,dar,{},42.25,47.4166666667,Eurasia,,Dargwa,617,False,False
+dari,,138,dri,prs,{},35.0,66.0,Eurasia,,Dari,618,False,False
+darma,,56,drm,drd,{},30.0,79.75,Eurasia,,Darma,619,False,False
+deuri,,155,deu,der,{},26.0,90.25,Eurasia,,Deuri,570,False,False
+deutsche gebardensprache,,23,dge,gsg,{},52.0,11.0,Eurasia,,Deutsche Gebärdensprache,573,False,False
+dhimal,,232,dhm,dhi,{},26.6666666667,87.75,Eurasia,,Dhimal,582,False,False
+dhivehi,,84,dhi,div,{},4.16666666667,73.5,Eurasia,,Dhivehi,580,False,False
+digaro,,233,dig,mhu,{},28.4166666667,96.0,Eurasia,,Digaro,588,False,False
+dimasa,,155,dms,dis,{},25.5,93.0,Eurasia,,Dimasa,605,False,False
+dogri,,84,dgi,"dgo, xnr",{},33.0,75.0,Eurasia,,Dogri,574,False,False
+dolgan,,83,dol,dlg,{},71.25,98.0,Eurasia,,Dolgan,611,False,False
+domaaki,,84,dmk,dmk,{},36.1666666667,74.0,Eurasia,,Domaaki,604,False,False
+domari,,84,dom,rmt,{},32.0,35.0,Eurasia,,Domari,612,False,False
+dong southern,,237,don,kmc,{},27.0,109.0,Eurasia,,Dong (Southern),613,False,False
+dulong,,72,dul,duu,{},28.0,98.3333333333,Eurasia,,Dulong,625,False,False
+dumi,,88,dmi,dus,{},27.25,86.6666666667,Eurasia,,Dumi,603,False,False
+dutch,,27,dut,nld,{},52.5,6.0,Eurasia,,Dutch,628,False,False
+dutch brabantic,,27,dbr,nld,{},50.75,4.5,Eurasia,,Dutch (Brabantic),558,False,False
+dutch limburg,,27,dli,nld,{},51.0,5.5,Eurasia,,Dutch (Limburg),600,False,False
+dutch zeeuws,,27,duz,zea,{},51.5,3.75,Eurasia,,Dutch (Zeeuws),629,False,False
+enets,,252,ene,"enf, enh",{},67.5,86.5,Eurasia,,Enets,649,False,False
+english,,27,eng,eng,{},52.0,0.0,Eurasia,,English,650,True,True
+estonian,,256,est,est,{},59.0,26.0,Eurasia,,Estonian,659,False,False
+even,,258,evn,eve,{},68.0,130.0,Eurasia,,Even,663,False,False
+evenki,,258,eve,evn,{},56.0,125.0,Eurasia,,Evenki,662,False,True
+faroese,,27,far,fao,{},62.0,-7.0,Eurasia,,Faroese,668,False,False
+finnish,,256,fin,fin,{},62.0,25.0,Eurasia,,Finnish,675,True,True
+finnish sign language,,23,fsl,fse,{},62.0,26.0,Eurasia,,Finnish Sign Language,691,False,False
+french,,85,fre,fra,{},48.0,2.0,Eurasia,,French,688,True,True
+frisian,,27,fri,frs,{},53.0,5.0,Eurasia,,Frisian,689,False,False
+frisian eastern,,27,fea,frs,{},53.5833333333,7.5,Eurasia,,Frisian (Eastern),671,False,False
+frisian north,,27,fno,frr,{},54.5,9.0,Eurasia,,Frisian (North),681,False,False
+frisian western,,27,frw,fry,{},53.0,6.0,Eurasia,,Frisian (Western),690,False,False
+fuzhou,,204,fuz,cdo,{},26.0,119.5,Eurasia,,Fuzhou,699,False,False
+gadaba kondekor,,271,gdk,gdb,{},18.75,83.5,Eurasia,,Gadaba (Kondekor),726,False,False
+gaelic scots,,162,gae,gla,{},57.0,-4.0,Eurasia,,Gaelic (Scots),704,False,False
+gagauz,,83,gag,gag,{},46.3333333333,28.6666666667,Eurasia,,Gagauz,705,False,False
+galician,,85,glc,glg,{},43.0,-8.0,Eurasia,,Galician,750,False,False
+galo,,76,gal,adi,{},28.1666666667,94.6666666667,Eurasia,,Galo,707,False,False
+garo,,155,gar,grt,{},25.6666666667,90.5,Eurasia,,Garo,711,False,True
+gelao,,276,gla,gqu,{},22.9166666667,105.5,Eurasia,,Gelao,749,False,False
+georgian,,272,geo,kat,{},42.0,44.0,Eurasia,,Georgian,731,True,True
+german,,27,ger,deu,{},52.0,10.0,Eurasia,,German,732,True,True
+german appenzell,,27,gpz,gsw,{},47.3333333333,9.33333333333,Eurasia,,German (Appenzell),777,False,False
+german bavarian,,27,gba,bar,{},49.0,11.5,Eurasia,,German (Bavarian),715,False,False
+german berlin,,27,gbl,deu,{},52.5,13.3333333333,Eurasia,,German (Berlin),720,False,False
+german bern,,27,gbe,gsw,{},47.0,7.41666666667,Eurasia,,German (Bern),718,False,False
+german hannover,,27,gha,deu,{},52.4166666667,9.66666666667,Eurasia,,German (Hannover),736,False,False
+german mansfeldisch,,27,gma,deu,{},51.5833333333,11.5,Eurasia,,German (Mansfeldisch),754,False,False
+german ostschweiz,,27,gos,gsw,{},47.4166666667,9.25,Eurasia,,German (Ostschweiz),776,False,False
+german ripuarian,,27,grp,ksh,{},51.0,7.0,Eurasia,,German (Ripuarian),787,False,False
+german thurgau,,27,gtg,gsw,{},47.5833333333,9.16666666667,Eurasia,,German (Thurgau),794,False,False
+german thuringian,,27,gth,deu,{},51.0,11.0,Eurasia,,German (Thuringian),795,False,False
+german timisoara,,27,gti,deu,{},45.75,21.25,Eurasia,,German (Timisoara),796,False,False
+german upper austrian,,27,gau,bar,{},47.0,14.0,Eurasia,,German (Upper Austrian),712,False,False
+german viennese,,27,gvi,bar,{},48.1666666667,16.3333333333,Eurasia,,German (Viennese),813,False,False
+german westphalian,,27,gwe,wep,{},52.0,7.5,Eurasia,,German (Westphalian),815,False,False
+german zurich,,27,gzu,gsw,{},47.4166666667,8.5,Eurasia,,German (Zurich),819,False,False
+gilaki,,138,gil,glk,{},37.3333333333,50.0,Eurasia,,Gilaki,741,False,False
+godoberi,,74,god,gdo,{},42.6666666667,46.0833333333,Eurasia,,Godoberi,767,False,False
+gojri,,84,goj,gju,{},32.75,76.25,Eurasia,,Gojri,770,False,False
+gondi,,282,gon,"ggo, gno",{},19.0,81.0,Eurasia,,Gondi,773,False,False
+great andamanese,,43,gan,apq,{},12.0,92.6666666667,Eurasia,,Great Andamanese,709,False,False
+greek cypriot,,270,gcy,ell,{},34.75,33.0,Eurasia,,Greek (Cypriot),722,False,False
+greek modern,,270,grk,ell,{},39.0,22.0,Eurasia,,Greek (Modern),783,True,True
+greek sign language,,23,gsl,gss,{},38.5,22.0,Eurasia,,Greek Sign Language,792,False,False
+greenlandic east,,91,gre,kal,{},65.0,-40.0,Eurasia,,Greenlandic (East),779,False,False
+greenlandic south,,91,gso,kal,{},60.0,-44.0,Eurasia,,Greenlandic (South),793,False,False
+greenlandic west,,91,grw,kal,{},64.0,-51.0,Eurasia,,Greenlandic (West),791,True,True
+gujarati,,84,guj,guj,{},23.0,72.0,Eurasia,,Gujarati,804,False,False
+gurung,,56,gur,"ggn, gvr",{},28.3333333333,84.3333333333,Eurasia,,Gurung,809,False,False
+gutob,,129,gdb,gbj,{},19.0,83.6666666667,Eurasia,,Gutob,723,False,False
+gyarong cogtse,,286,gyc,jya,{},31.5,102.0,Eurasia,,Gyarong (Cogtse),818,False,False
+hakka,,204,hak,hak,{},25.0,116.0,Eurasia,,Hakka,822,False,False
+halang,,157,hln,hal,{},14.5,107.5,Eurasia,,Halang,849,False,False
+halbi,,84,hlb,hlb,{},21.0,81.0,Eurasia,,Halbi,847,False,False
+hani,,20,han,hni,{},23.0,103.0,Eurasia,,Hani,825,False,False
+harsusi,,4,hrs,hss,{},20.0,56.5,Eurasia,,Harsusi,872,False,False
+hawrami,,138,hwr,hac,{},35.75,45.5,Eurasia,,Hawrami,883,False,False
+hayu,,88,hay,vay,{},27.25,86.0,Eurasia,,Hayu,831,False,False
+hebrew modern,,4,heb,heb,{},31.5,34.8333333333,Eurasia,,Hebrew (Modern),835,True,True
+hebrew modern ashkenazic,,4,hba,heb,{},31.75,35.1666666667,Eurasia,,Hebrew (Modern Ashkenazic),832,False,False
+hindi,,84,hin,hin,{},25.0,77.0,Eurasia,,Hindi,844,True,True
+hinuq,,74,hnk,gin,{},42.1666666667,46.0,Eurasia,,Hinuq,861,False,False
+hlai baoding,,389,lic,lic,{},19.0,109.5,Eurasia,,Hlai (Baoding),1311,False,False
+hmar,,33,hma,hmr,{},24.1666666667,93.0,Eurasia,,Hmar,852,False,False
+hmong daw,,292,hmd,mww,{},26.0,105.0,Eurasia,,Hmong Daw,854,False,False
+hmong njua,,292,hmo,"cqd, hnj",{},28.0,105.0,Eurasia,,Hmong Njua,856,True,True
+ho,,129,ho,hoc,{},22.0,86.0,Eurasia,,Ho,864,False,False
+hong kong sign language,,23,hks,,{},22.5,114.0,Eurasia,,Hong Kong Sign Language,846,False,False
+hre,,157,hre,hre,{},14.6666666667,108.666666667,Eurasia,,Hre,870,False,False
+hungarian,,296,hun,hun,{},47.0,20.0,Eurasia,,Hungarian,879,False,True
+hunzib,,74,hzb,huz,{},42.1666666667,46.25,Eurasia,,Hunzib,886,False,True
+hyow,,33,hyo,csh,{},22.0833333333,92.4166666667,Eurasia,,Hyow,885,False,False
+icelandic,,27,ice,isl,{},65.0,-17.0,Eurasia,,Icelandic,893,False,False
+icelandic sign language,,23,ics,icl,{},65.0,-18.0,Eurasia,,Icelandic Sign Language,894,False,False
+idu,,233,idu,clk,{},29.3333333333,95.8333333333,Eurasia,,Idu,897,False,False
+indopakistani sign language indian dialects,,23,ipi,ins,{},24.0,80.0,Eurasia,,Indo-Pakistani Sign Language (Indian dialects),923,False,False
+indopakistani sign language karachi dialect,,23,ipk,pks,{},28.0,68.0,Eurasia,,Indo-Pakistani Sign Language (Karachi dialect),924,False,False
+ingush,,186,ing,inh,{},43.1666666667,45.0833333333,Eurasia,,Ingush,917,False,True
+irish,,162,iri,gle,{},53.0,-8.0,Eurasia,,Irish,928,False,True
+irish donegal,,162,ird,gle,{},55.0,-8.0,Eurasia,,Irish (Donegal),927,False,False
+irish munster,,162,irm,gle,{},52.5,-9.0,Eurasia,,Irish (Munster),929,False,False
+irish sign language,,23,irs,isg,{},53.5,-7.5,Eurasia,,Irish Sign Language,932,False,False
+ishkashmi,,138,ish,isk,{},37.0,72.0,Eurasia,,Ishkashmi,936,False,False
+israeli sign language,,23,iss,isr,{},32.0,34.8333333333,Eurasia,,Israeli Sign Language,941,False,False
+italian,,85,ita,ita,{},43.0,12.0,Eurasia,,Italian,942,False,False
+italian bologna,,85,itb,egl,{},44.5,11.3333333333,Eurasia,,Italian (Bologna),943,False,False
+italian fiorentino,,85,ifi,ita,{},43.75,11.25,Eurasia,,Italian (Fiorentino),898,False,False
+italian genoa,,85,itg,lij,{},44.4166666667,8.95,Eurasia,,Italian (Genoa),945,False,False
+italian napolitanian,,85,itn,nap,{},40.9166666667,14.25,Eurasia,,Italian (Napolitanian),946,False,False
+italian turinese,,85,itu,pms,{},45.0,7.66666666667,Eurasia,,Italian (Turinese),948,False,False
+itelmen,,308,ite,itl,{},57.0,157.5,Eurasia,,Itelmen,944,False,False
+izhor,,256,izh,izh,{},59.0,29.0,Eurasia,,Izhor,956,False,False
+jad,,56,jad,bod,{},30.8333333333,79.0,Eurasia,,Jad,959,False,False
+jahai,,312,jah,jhi,{},5.75,101.5,Eurasia,,Jahai,960,False,False
+japanese,,319,jpn,jpn,{},37.0,140.0,Eurasia,,Japanese,983,True,True
+jarawa in andamans,,320,jrw,anq,{},12.0,92.5833333333,Eurasia,,Jarawa (in Andamans),986,False,False
+jeh,,157,jeh,jeh,{},15.1666666667,107.833333333,Eurasia,,Jeh,969,False,False
+jiarong,,286,jia,jya,{},31.5,102.0,Eurasia,,Jiarong,972,False,False
+jibbali,,4,jib,shv,{},17.5,55.0,Eurasia,,Jibbali,973,False,False
+jingpho,,317,jng,kac,{},25.4166666667,97.0,Eurasia,,Jingpho,980,False,False
+jino,,20,jin,"jiu, jiy",{},22.0,101.0,Eurasia,,Jino,974,False,False
+juang,,129,jun,jun,{},21.3333333333,86.0,Eurasia,,Juang,991,False,False
+jugli,,188,jug,nst,{},27.5,96.3333333333,Eurasia,,Jugli,987,False,False
+jurchen,,258,jur,juc,{},47.0,130.0,Eurasia,,Jurchen,992,False,False
+kabardian,,7,kab,kbd,{},43.5,43.5,Eurasia,,Kabardian,996,False,False
+kabatei,,138,kbt,xkp,{},36.75,49.4166666667,Eurasia,,Kabatei,1022,False,False
+kabui,,33,kbi,nkf,{},24.8333333333,94.0,Eurasia,,Kabui,1018,False,False
+kachari,,155,kac,xac,{},26.5,91.0,Eurasia,,Kachari,997,False,False
+kalami,,84,kal,gwc,{},35.5,72.5,Eurasia,,Kalami,1004,False,False
+kalasha,,84,klh,kls,{},35.0,72.0,Eurasia,,Kalasha,1105,False,False
+kalmyk,,110,kmk,xal,{},44.0,83.0,Eurasia,,Kalmyk,1125,False,False
+kalmyk issykkul,,110,kiq,xal,{},42.4166666667,78.3333333333,Eurasia,,Kalmyk (Issyk-Kul),1078,False,False
+kamass,,252,kms,xas,{},52.0,92.0,Eurasia,,Kamass,1130,False,False
+kanashi,,56,xns,xns,{},32.0833333333,77.25,Eurasia,,Kanashi,2548,False,False
+kannada,,116,knd,kan,{},14.0,76.0,Eurasia,,Kannada,1138,True,True
+karachaybalkar,,83,krc,krc,{},43.5,42.0,Eurasia,,Karachay-Balkar,1178,False,False
+karaim,,83,krm,kdr,{},54.6666666667,24.9166666667,Eurasia,,Karaim,1188,False,False
+karakalpak,,83,kkp,kaa,{},43.0,60.0,Eurasia,,Karakalpak,1093,False,False
+karata,,74,krt,kpt,{},42.5833333333,46.3333333333,Eurasia,,Karata,1193,False,False
+karelian,,256,krl,krl,{},64.0,32.0,Eurasia,,Karelian,1187,False,False
+karen bwe,,332,kbw,bwe,{},19.5,97.0,Eurasia,,Karen (Bwe),1024,False,False
+karen pwo,,332,kpw,"kjp, pwo",{},13.0,99.1666666667,Eurasia,,Karen (Pwo),1174,False,False
+karen sgaw,,332,ksg,ksw,{},18.0,97.0,Eurasia,,Karen (Sgaw),1199,False,False
+kashmiri,,84,kas,kas,{},34.0,76.0,Eurasia,,Kashmiri,1011,False,False
+kashubian,,141,ksu,csb,{},54.0,18.0,Eurasia,,Kashubian,1208,False,False
+kasong,,366,ksn,,{},12.75,102.116666667,Eurasia,,Kasong,1204,False,False
+kati in afghanistan,,370,ktz,bsh,{},35.5,70.0,Eurasia,,Kati (in Afghanistan),1224,False,False
+katu,,167,ktu,"ktv, kuf",{},15.8333333333,107.583333333,Eurasia,,Katu,1222,False,False
+kayah li eastern,,332,kyl,eky,{},19.0,97.5,Eurasia,,Kayah Li (Eastern),1257,False,True
+kazakh,,83,kaz,kaz,{},50.0,70.0,Eurasia,,Kazakh,1016,False,False
+kerek,,51,krq,krk,{},62.25,175.0,Eurasia,,Kerek,1191,False,False
+ket,,335,ket,ket,{},64.0,87.0,Eurasia,,Ket,1041,False,True
+ketapang,,14,ktp,zlm,{},-1.86666666667,110.0,Eurasia,,Ketapang,1220,False,False
+khakas,,83,khk,kjh,{},53.0,90.0,Eurasia,,Khakas,1060,False,False
+khalaj,,83,khl,klj,{},35.0,50.0,Eurasia,,Khalaj,1061,False,False
+khaling,,88,khg,klr,{},27.5,86.6666666667,Eurasia,,Khaling,1058,False,False
+khalkha,,110,kha,khk,{},47.0,105.0,Eurasia,,Khalkha,1056,True,True
+kham,,88,kmh,kgj,{},28.5,82.75,Eurasia,,Kham,1122,False,False
+kham dege,,56,khd,khg,{},31.8333333333,98.5833333333,Eurasia,,Kham (Dege),1057,False,False
+kham tibetan nangchen,,56,knz,khg,{},32.5,96.5,Eurasia,,Kham (Tibetan) (Nangchen),1150,False,False
+khanty,,296,kty,kca,{},65.0,65.0,Eurasia,,Khanty,1223,False,False
+kharia,,129,khr,khr,{},22.5,84.3333333333,Eurasia,,Kharia,1065,False,False
+khasi,,337,khs,kha,{},25.5,92.0,Eurasia,,Khasi,1066,False,True
+khinalug,,32,khi,kjj,{},41.1666666667,48.0833333333,Eurasia,,Khinalug,1059,False,False
+khmer,,336,khm,khm,{},12.5,105.0,Eurasia,,Khmer,1062,False,True
+khmu,,349,kmu,kjg,{},21.0,102.0,Eurasia,,Khmu',1132,False,True
+khowar,,84,khw,khw,{},36.0,72.0,Eurasia,,Khowar,1069,False,False
+khumi,,33,khu,cnk,{},21.9166666667,92.4166666667,Eurasia,,Khumi,1067,False,False
+khun,,237,khn,kkh,{},21.0,100.0,Eurasia,,Khün,1063,False,False
+khwarshi,,74,khv,khv,{},42.25,46.1666666667,Eurasia,,Khwarshi,1068,False,False
+kinnauri,,56,knn,kfk,{},31.5,78.0,Eurasia,,Kinnauri,1143,False,False
+kirghiz,,83,kgz,kir,{},42.0,75.0,Eurasia,,Kirghiz,1055,False,False
+kirghiz fuyu,,83,kfy,kir,{},47.75,124.416666667,Eurasia,,Kirghiz (Fu-Yu),1046,False,False
+kodava,,116,kod,kfa,{},12.1666666667,76.8333333333,Eurasia,,Kodava,1153,False,False
+kokborok,,155,kok,trp,{},24.3333333333,92.5,Eurasia,,Kokborok,1157,False,False
+kokni,,84,kkz,kex,{},20.75,73.5,Eurasia,,Kokni,1101,False,False
+kolami,,271,kol,"kfb, nit",{},20.0,78.5,Eurasia,,Kolami,1158,False,False
+koluri,,138,klr,shm,{},37.0,48.0,Eurasia,,Koluri,1113,False,False
+komipermyak,,359,kop,koi,{},59.5,54.5,Eurasia,,Komi-Permyak,1162,False,False
+komizyrian,,359,kzy,kpv,{},65.0,55.0,Eurasia,,Komi-Zyrian,1266,False,False
+konda,,282,kda,kfc,{},19.5,83.0,Eurasia,,Konda,1027,False,False
+konkani,,84,kkn,knn,{},15.25,74.0,Eurasia,,Konkani,1091,False,False
+korean,,360,kor,kor,{},37.5,128.0,Eurasia,,Korean,1163,True,True
+korku,,129,kku,kfq,{},22.5,78.5,Eurasia,,Korku,1097,False,False
+koryak,,51,kry,kpy,{},61.0,167.0,Eurasia,,Koryak,1195,False,False
+kota,,116,kot,kfe,{},11.5,77.1666666667,Eurasia,,Kota,1165,False,False
+kott,,335,ktt,,{},57.0,94.0,Eurasia,,Kott,1221,False,False
+koya,,282,koy,kff,{},17.5,81.3333333333,Eurasia,,Koya,1168,False,False
+krymchak,,83,kym,uzn,{},45.0,34.25,Eurasia,,Krymchak,1258,False,False
+kryz,,32,krz,kry,{},41.0833333333,48.0,Eurasia,,Kryz,1196,False,False
+ksingmul,,349,ksi,puo,{},21.0833333333,104.0,Eurasia,,Ksingmul,1201,False,False
+kui in india,,282,kui,kxu,{},20.0,83.5,Eurasia,,Kui (in India),1227,False,False
+kulung,,88,klg,kle,{},27.5,87.0,Eurasia,,Kulung,1104,False,False
+kumauni,,84,kum,kfy,{},30.0,80.0,Eurasia,,Kumauni,1230,False,False
+kumyk,,83,kuq,kum,{},43.0,47.3333333333,Eurasia,,Kumyk,1233,False,False
+kunming,,204,kug,cmn,{},25.0,102.75,Eurasia,,Kunming,1226,False,False
+kurdish central,,138,krd,ckb,{},36.0,44.0,Eurasia,,Kurdish (Central),1179,False,False
+kurmanji,,138,kji,kmr,{},38.0,42.0,Eurasia,,Kurmanji,1085,False,False
+kurukh,,163,kur,kru,{},22.8333333333,85.5,Eurasia,,Kurukh,1234,False,False
+kusunda,,373,kus,kgg,{},28.0,84.6666666667,Eurasia,,Kusunda,1235,False,False
+kuvi,,282,kuv,kxv,{},18.75,82.6666666667,Eurasia,,Kuvi,1238,False,False
+kyirong,,56,kgy,kgy,{},28.4166666667,85.3333333333,Eurasia,,Kyirong,1054,False,False
+lachi,,276,lch,lbt,{},22.6666666667,104.833333333,Eurasia,,Lachi,1286,False,False
+ladakhi,,56,lad,lbj,{},34.0,78.0,Eurasia,,Ladakhi,1270,False,True
+ladin,,85,ldn,lld,{},46.5833333333,11.9166666667,Eurasia,,Ladin,1289,False,False
+ladino,,85,lno,lad,{},40.0,33.0,Eurasia,,Ladino,1335,False,False
+laha,,276,lha,lha,{},21.5833333333,103.916666667,Eurasia,,Laha,1309,False,False
+lahu,,20,lah,lhu,{},20.0,98.1666666667,Eurasia,,Lahu,1273,False,False
+lai,,33,lai,cnh,{},22.6666666667,93.6666666667,Eurasia,,Lai,1274,False,False
+lak,,240,lak,lbe,{},42.1666666667,47.1666666667,Eurasia,,Lak,1275,False,True
+lakkia,,276,lkk,lbc,{},24.0833333333,110.166666667,Eurasia,,Lakkia,1320,False,False
+lalo,,20,lal,ywt,{},25.0,100.25,Eurasia,,Lalo,1276,False,False
+lamani,,84,lmn,lmn,{},17.0,77.0,Eurasia,,Lamani,1329,False,False
+langue des signes francaise,,23,lsf,fsl,{},47.0,3.0,Eurasia,,Langue des Signes Française,1350,False,False
+lao,,237,lao,lao,{},18.0,103.0,Eurasia,,Lao,1279,False,False
+latvian,,383,lat,lav,{},57.0,24.0,Eurasia,,Latvian,1281,False,True
+laz,,272,laz,lzz,{},41.5,41.5,Eurasia,,Laz,1284,False,False
+lengua de senas espanola,,23,lse,ssp,{},40.0,-3.0,Eurasia,,Lengua de Señas Española,1349,False,False
+lepcha,,387,lep,lep,{},27.1666666667,88.5,Eurasia,,Lepcha,1297,False,True
+lezgian,,32,lez,lez,{},41.6666666667,47.8333333333,Eurasia,,Lezgian,1301,True,True
+lhomi,,56,lho,lhm,{},27.6666666667,87.4166666667,Eurasia,,Lhomi,1310,False,False
+limbu,,88,lim,lif,{},27.1666666667,87.75,Eurasia,,Limbu,1314,False,False
+lingua gestual portuguesa,,23,lgp,psr,{},40.0,-8.0,Eurasia,,Língua Gestual Portuguesa,1306,False,False
+lingua italiana dei segni,,23,lii,ise,{},42.0,13.0,Eurasia,,Lingua Italiana dei Segni,1312,False,False
+lisu,,20,lis,lis,{},26.0,98.0,Eurasia,,Lisu,1316,False,False
+lithuanian,,383,lit,lit,{},55.0,24.0,Eurasia,,Lithuanian,1317,False,False
+liv,,256,liv,liv,{},56.8333333333,24.0,Eurasia,,Liv,1318,False,False
+lotha,,33,lot,njh,{},26.5,94.25,Eurasia,,Lotha,1341,False,False
+loven,,157,lov,lbo,{},15.0,106.333333333,Eurasia,,Loven,1343,False,False
+low german,,27,lge,nds,{},53.0,10.0,Eurasia,,Low German,1303,False,False
+lu,,237,lu,khb,{},22.0,100.666666667,Eurasia,,Lü,1352,False,False
+lungchang,,188,lun,nst,{},27.5,96.4166666667,Eurasia,,Lungchang,1360,False,False
+luri,,138,lur,lrc,{},33.5,48.5,Eurasia,,Luri,1362,False,False
+luxemburgeois,,27,lux,ltz,{},49.8333333333,6.16666666667,Eurasia,,Luxemburgeois,1365,False,False
+macedonian,,141,mcd,mkd,{},41.6666666667,21.75,Eurasia,,Macedonian,1407,False,False
+magahi,,84,mgh,mag,{},23.5,85.5,Eurasia,,Magahi,1445,False,False
+magar,,88,mag,mgp,{},28.0,83.0,Eurasia,,Magar,1374,False,False
+magar syangja,,88,msy,mrd,{},28.0833333333,83.8333333333,Eurasia,,Magar (Syangja),1586,False,False
+mah meri,,312,mhm,mhe,{},2.83333333333,101.5,Eurasia,,Mah Meri,1457,False,False
+maithili,,84,mai,mai,{},26.0,86.0,Eurasia,,Maithili,1376,False,False
+malacca creole,,34,mlc,mcm,{},2.2,102.25,Eurasia,,Malacca Creole,1494,False,False
+malay,,14,mly,zsm,{},3.0,102.0,Eurasia,,Malay,1503,False,False
+malayalam,,116,mym,mal,{},10.0,76.5,Eurasia,,Malayalam,1641,False,False
+malay kuala lumpur,,14,myk,zlm,{},3.16666666667,101.7,Eurasia,,Malay (Kuala Lumpur),1640,False,False
+malay ulu muar,,14,mmu,zmi,{},2.66666666667,102.5,Eurasia,,Malay (Ulu Muar),1512,False,False
+maltese,,4,mlt,mlt,{},35.9166666667,14.4166666667,Eurasia,,Maltese,1501,False,False
+malto,,163,mto,kmj,{},25.0,87.3333333333,Eurasia,,Malto,1594,False,False
+manange,,56,nmm,nmm,{},28.5833333333,84.0,Eurasia,,Manange,1751,False,False
+manchu,,258,mnc,mnc,{},49.5,127.5,Eurasia,,Manchu,1516,False,False
+mandaic modern,,4,mma,mid,{},31.0,48.5,Eurasia,,Mandaic (Modern),1504,False,False
+mandarin,,204,mnd,cmn,{},34.0,110.0,Eurasia,,Mandarin,1517,True,True
+mangghuer,,110,mgg,mjg,{},36.0,102.0,Eurasia,,Mangghuer,1444,False,False
+mansi,,296,mns,mns,{},62.0,62.0,Eurasia,,Mansi,1526,False,False
+manx,,162,mnx,glv,{},54.1666666667,-4.5,Eurasia,,Manx,1530,False,False
+marathi,,84,mhi,mar,{},19.0,76.0,Eurasia,,Marathi,1454,False,False
+marchha,,56,mrc,rnp,{},30.25,79.5833333333,Eurasia,,Marchha,1560,False,False
+mari hill,,393,mah,mrj,{},57.0,58.0,Eurasia,,Mari (Hill),1375,False,False
+mari meadow,,393,mme,mhr,{},57.0,48.0,Eurasia,,Mari (Meadow),1506,False,False
+maru,,20,mru,mhx,{},23.5,98.5,Eurasia,,Maru,1574,False,False
+mawchi,,84,mwc,mke,{},21.3333333333,73.6666666667,Eurasia,,Mawchi,1616,False,False
+mazanderani,,138,mzn,mzn,{},36.5,52.0,Eurasia,,Mazanderani,1648,False,False
+mehri,,4,meh,gdq,{},17.0,51.5,Eurasia,,Mehri,1434,False,False
+meithei,,33,mei,mni,{},24.75,94.0,Eurasia,,Meithei,1435,True,True
+mien,,292,mie,ium,{},25.0,111.0,Eurasia,,Mien,1461,False,False
+miju,,76,mij,mxj,{},29.0,96.0,Eurasia,,Miju,1464,False,False
+mikir,,33,mik,mjw,{},26.3333333333,93.5,Eurasia,,Mikir,1465,False,False
+milang,,76,mil,adi,{},28.5,95.25,Eurasia,,Milang,1466,False,False
+mingrelian,,272,mgl,xmf,{},42.5,42.0,Eurasia,,Mingrelian,1448,False,False
+min southern,,204,hok,nan,{},25.0,118.0,Eurasia,,Min (Southern),866,False,False
+miri hill,,76,mhl,mrg,{},27.9166666667,93.8333333333,Eurasia,,Miri (Hill):,1456,False,False
+mising,,76,msg,mrg,{},28.5,94.8333333333,Eurasia,,Mising,1578,False,False
+mizo,,33,miz,lus,{},23.1666666667,92.8333333333,Eurasia,,Mizo,1472,False,False
+mlabri minor,,349,mlm,mra,{},18.5,101.0,Eurasia,,Mlabri (Minor),1500,False,False
+moghol,,110,mog,mhj,{},35.0,62.0,Eurasia,,Moghol,1537,False,False
+moldavian,,85,mol,ron,{},47.0,29.0,Eurasia,,Moldavian,1541,False,False
+mon,,418,mon,mnw,{},14.8333333333,100.5,Eurasia,,Mon,1543,False,False
+mordvin erzya,,416,moe,myv,{},53.0,45.5,Eurasia,,Mordvin (Erzya),1535,False,False
+mordvin moksha,,416,mmo,mdf,{},54.0,44.0,Eurasia,,Mordvin (Moksha),1509,False,False
+mulao,,237,mul,mlm,{},25.0,108.0,Eurasia,,Mulao,1604,False,False
+mun,,292,mnu,mji,{},19.0,110.0,Eurasia,,Mun,1528,False,False
+mundari,,129,mun,unr,{},23.0,84.6666666667,Eurasia,,Mundari,1606,False,True
+muong,,432,muo,mtq,{},20.5,105.083333333,Eurasia,,Muong,1607,False,False
+naga mao,,33,nma,nbi,{},25.5,94.3333333333,Eurasia,,Naga (Mao),1747,False,False
+naga pidgin,,34,npn,nag,{},25.6666666667,94.0,Eurasia,,Naga Pidgin,1772,False,False
+naga tangkhul,,33,ngt,nmf,{},25.0,94.5,Eurasia,,Naga (Tangkhul),1711,False,False
+naga zeme,,33,nze,nzm,{},25.1666666667,93.5,Eurasia,,Naga (Zeme),1811,False,False
+nahali,,437,nah,nll,{},19.75,77.8333333333,Eurasia,,Nahali,1654,False,False
+nanai,,258,nai,gld,{},49.5,137.0,Eurasia,,Nanai,1655,False,False
+nancowry,,442,nnc,ncb,{},8.05,93.5,Eurasia,,Nancowry,1753,False,False
+narphu,,56,nph,npa,{},28.6666666667,84.25,Eurasia,,Nar-Phu,1770,False,False
+naxi,,441,nax,nxq,{},27.5,100.0,Eurasia,,Naxi,1667,False,False
+nederlandse gebarentaal,,23,ned,dse,{},52.25,5.5,Eurasia,,Nederlandse Gebarentaal,1688,False,False
+negidal,,258,neg,neg,{},53.0,139.0,Eurasia,,Negidal,1689,False,False
+nenets,,252,ntu,yrk,{},70.0,76.0,Eurasia,,Nenets,1788,False,False
+nenets forest,,252,nen,yrk,{},69.0,72.0,Eurasia,,Nenets (Forest),1692,False,True
+neoaramaic amadiya,,4,naa,cld,{},37.0,43.0,Eurasia,,Neo-Aramaic (Amadiya),1649,False,False
+neoaramaic arbel jewish,,4,naj,aij,{},36.3833,44.0,Eurasia,,Neo-Aramaic (Arbel Jewish),1656,False,False
+neoaramaic assyrian,,4,nsy,aii,{},36.0,41.0,Eurasia,,Neo-Aramaic (Assyrian),1781,False,False
+neoaramaic persian azerbaijan,,4,nap,trg,{},38.0,47.0,Eurasia,,Neo-Aramaic (Persian Azerbaijan),1661,False,False
+nepali,,84,nep,nep,{},28.0,85.0,Eurasia,,Nepali,1693,False,False
+newar dolakha,,88,nwd,new,{},27.3333333333,86.0,Eurasia,,Newar (Dolakha),1799,False,False
+newari kathmandu,,88,new,new,{},27.6666666667,85.5,Eurasia,,Newari (Kathmandu),1695,False,False
+nganasan,,252,nga,nio,{},71.0,93.0,Eurasia,,Nganasan,1698,False,False
+nicobarese,,442,nic,ncb,{},7.0,93.8333333333,Eurasia,,Nicobarese,1726,False,False
+nicobarese car,,442,nca,caq,{},9.0,93.0,Eurasia,,Nicobarese (Car),1676,False,False
+nihon shuwa japanese sign language,,23,nih,jsl,{},36.0,139.0,Eurasia,,Nihon Shuwa (Japanese Sign Language),1728,False,False
+nivkh,,451,niv,niv,{},53.3333333333,142.0,Eurasia,,Nivkh,1734,False,True
+nivkh south sakhalin,,451,nvs,niv,{},47.0,142.5,Eurasia,,Nivkh (South Sakhalin),1798,False,False
+nocte,,188,noc,njb,{},27.0,95.5,Eurasia,,Nocte,1762,False,False
+noghay,,83,nog,nog,{},44.0,46.0,Eurasia,,Noghay,1763,False,False
+noghay karagash,,83,nok,nog,{},47.5,47.25,Eurasia,,Noghay (Karagash),1764,False,False
+norsk tegnsprak,,23,nte,nsl,{},61.0,9.0,Eurasia,,Norsk Tegnspråk,1783,False,False
+norwegian,,27,nor,nob,{},61.0,8.0,Eurasia,,Norwegian,1768,False,False
+nung in vietnam,,237,nun,nut,{},21.9166666667,106.416666667,Eurasia,,Nung (in Vietnam),1794,False,False
+nuosu,,20,yi,iii,{},28.0,103.0,Eurasia,,Nuosu,2582,False,False
+nusu,,20,nus,nuf,{},26.75,99.0,Eurasia,,Nusu,1796,False,False
+nyah kur tha pong,,418,nkt,cbn,{},15.6666666667,101.666666667,Eurasia,,Nyah Kur (Tha Pong),1742,False,False
+nyamkad,,56,nyk,tpq,{},32.0,78.5,Eurasia,,Nyamkad,1804,False,False
+nyishi,,76,nis,njz,{},27.5,93.5,Eurasia,,Nyishi,1731,False,False
+occitan,,85,occ,oci,{},44.0,2.0,Eurasia,,Occitan,1817,False,False
+oi,,157,oi,oyb,{},14.8333333333,107.166666667,Eurasia,,Oi,1820,False,False
+oirat,,110,oir,xal,{},37.5,93.0,Eurasia,,Oirat,1821,False,False
+onge,,320,ong,oon,{},10.75,92.4166666667,Eurasia,,Onge,1838,False,False
+ordos,,110,ord,mvf,{},39.0,109.0,Eurasia,,Ordos,1845,False,False
+oriya,,84,oya,ori,{},21.0,85.0,Eurasia,,Oriya,1864,False,False
+oriya kotia,,84,oko,ort,{},18.3333333333,83.0,Eurasia,,Oriya (Kotia),1827,False,False
+ormuri,,138,orm,oru,{},32.5,69.75,Eurasia,,Ormuri,1851,False,False
+oroch,,258,orc,oac,{},50.3333333333,137.5,Eurasia,,Oroch,1844,False,False
+orok,,258,ork,oaa,{},49.5,143.5,Eurasia,,Orok,1849,False,False
+ossetic,,138,oss,oss,{},43.0,44.0,Eurasia,,Ossetic,1857,False,False
+pacoh,,167,pac,pac,{},16.4166666667,107.083333333,Eurasia,,Pacoh,1866,False,False
+paite,,33,pte,pck,{},24.0,93.1666666667,Eurasia,,Paite,1949,False,False
+palaung,,470,plg,"pce, rbb",{},22.6666666667,96.6666666667,Eurasia,,Palaung,1902,False,False
+panjabi,,84,pan,pan,{},31.0,74.0,Eurasia,,Panjabi,1874,False,False
+parauk,,470,puk,prk,{},23.25,99.5,Eurasia,,Parauk,1954,False,False
+parji dravidian,,271,prd,pci,{},19.5,82.5,Eurasia,,Parji (Dravidian),1933,False,False
+pashto,,138,psh,pst,{},33.0,67.0,Eurasia,,Pashto,1941,False,False
+pattani,,56,ptt,lae,{},32.75,76.75,Eurasia,,Pattani,1951,False,False
+pengo,,282,pen,peg,{},19.8333333333,83.8333333333,Eurasia,,Pengo,1885,False,False
+persian,,138,prs,pes,{},32.0,54.0,Eurasia,,Persian,1939,True,True
+phlong,,332,phl,pww,{},15.0,99.0,Eurasia,,Phlong,1889,False,False
+polabian,,141,plb,pox,{},51.0,12.8333333333,Eurasia,,Polabian,1901,False,False
+polish,,141,pol,pol,{},52.0,20.0,Eurasia,,Polish,1924,False,False
+portuguese,,85,por,por,{},39.0,-8.0,Eurasia,,Portuguese,1926,False,False
+prasuni,,370,pra,prn,{},35.5,71.0,Eurasia,,Prasuni,1931,False,False
+provencal,,85,pro,oci,{},44.0,6.0,Eurasia,,Provençal,1938,False,False
+pumi,,477,pum,"pmi, pmj",{},28.0,101.0,Eurasia,,Pumi,1956,False,False
+purki,,56,prk,prx,{},34.6666666667,76.0,Eurasia,,Purki,1937,False,False
+qiang,,477,qia,"cng, qxs",{},32.0,102.666666667,Eurasia,,Qiang,1973,False,False
+rade,,14,rad,rad,{},13.0,108.5,Eurasia,,Rade,1979,False,False
+raji,,485,rji,rji,{},28.0,82.75,Eurasia,,Raji,2003,False,False
+ralte,,33,ral,ral,{},23.75,92.75,Eurasia,,Ralte,1981,False,False
+rang pas,,56,rpa,bod,{},30.3333333333,79.3333333333,Eurasia,,Rang Pas,2018,False,False
+rawang,,72,raw,raw,{},27.5,97.5,Eurasia,,Rawang,1987,False,False
+remo,,129,rem,bfw,{},18.0,82.0,Eurasia,,Remo,1992,False,False
+rengao,,157,rng,ren,{},14.5833333333,107.833333333,Eurasia,,Rengao,2009,False,False
+rgyalrong caodeng,,286,rgc,jya,{},31.6666666667,101.75,Eurasia,,rGyalrong (Caodeng),1997,False,False
+roglai northern,,14,rgn,rog,{},12.1666666667,108.833333333,Eurasia,,Roglai (Northern),1998,False,False
+romani ajia varvara,,84,rav,rmn,{},38.0,23.5833333333,Eurasia,,Romani (Ajia Varvara),1986,False,False
+romanian,,85,rom,ron,{},46.0,25.0,Eurasia,,Romanian,2013,False,False
+romani bugurdzi,,84,rbu,rmn,{},42.6666666667,21.1666666667,Eurasia,,Romani (Bugurdzi),1989,False,False
+romani burgenland,,84,rbg,rmo,{},47.5,16.5,Eurasia,,Romani (Burgenland),1988,False,False
+romani kalderash,,84,rka,rmy,{},45.0,21.0,Eurasia,,Romani (Kalderash),2004,False,False
+romani lovari,,84,rlo,rmy,{},47.0,21.5,Eurasia,,Romani (Lovari),2005,False,False
+romani north russian,,84,rnr,rml,{},60.0,38.0,Eurasia,,Romani (North Russian),2011,False,False
+romani welsh,,84,rwe,rmw,{},52.0,-4.0,Eurasia,,Romani (Welsh),2034,False,False
+romansch,,85,rmc,roh,{},46.6666666667,9.16666666667,Eurasia,,Romansch,2007,False,False
+romansch scharans,,85,rsc,roh,{},46.75,9.5,Eurasia,,Romansch (Scharans),2020,False,False
+romansch surmeiran,,85,rsm,roh,{},46.5833333333,9.75,Eurasia,,Romansch (Surmeiran),2024,False,False
+romansch sursilvan,,85,rsu,roh,{},46.6666666667,8.83333333333,Eurasia,,Romansch (Sursilvan),2025,False,False
+russian,,141,rus,rus,{},56.0,38.0,Eurasia,,Russian,2031,True,True
+russian sign language,,23,rsl,rsl,{},56.0,44.0,Eurasia,,Russian Sign Language,2023,False,False
+rutul,,32,rut,rut,{},41.5,47.4166666667,Eurasia,,Rutul,2032,False,False
+saami centralsouth,,491,scs,sma,{},64.6666666667,16.75,Eurasia,,Saami (Central-South),2054,False,False
+saami kildin,,491,ski,sjd,{},67.0,37.0,Eurasia,,Saami (Kildin),2102,False,False
+saami northern,,491,sno,sme,{},69.0,24.0,Eurasia,,Saami (Northern),2134,False,False
+saek,,237,sae,skb,{},17.4166666667,104.75,Eurasia,,Saek,2038,False,False
+salar,,83,slr,slr,{},35.0,103.0,Eurasia,,Salar,2117,False,False
+santa,,110,sta,sce,{},31.5,107.5,Eurasia,,Santa,2170,False,False
+santali,,129,stl,sat,{},24.5,87.0,Eurasia,,Santali,2172,False,False
+sapuan,,157,sap,spu,{},15.1666666667,106.833333333,Eurasia,,Sapuan,2045,False,False
+sardinian,,85,srd,sro,{},40.0,9.0,Eurasia,,Sardinian,2155,False,False
+saryg yughur,,83,syg,ybe,{},38.75,99.75,Eurasia,,Saryg Yughur,2198,False,False
+savi,,84,sav,sdg,{},35.0,71.5,Eurasia,,Savi,2047,False,False
+sedang,,157,sed,sed,{},14.8333333333,108.0,Eurasia,,Sedang,2060,False,False
+selkup,,252,skp,sel,{},65.0,82.0,Eurasia,,Selkup,2107,False,False
+sema,,33,sem,nsm,{},26.0,94.5,Eurasia,,Sema,2063,False,False
+semai,,312,smj,sea,{},4.33333333333,101.666666667,Eurasia,,Semai,2122,False,False
+semelai,,312,sml,sza,{},3.0,103.0,Eurasia,,Semelai,2123,False,True
+serbiancroatian,,141,scr,"bos, hrv, srp",{},44.0,19.0,Eurasia,,Serbian-Croatian,2053,False,False
+seychelles creole,,34,sey,crs,{},-4.75,55.5,Eurasia,,Seychelles Creole,2067,False,False
+shan,,237,sha,shn,{},22.0,98.0,Eurasia,,Shan,2074,False,False
+shekhawati,,84,skw,swv,{},28.0,75.5,Eurasia,,Shekhawati,2110,False,False
+sherdukpen,,127,shd,sdp,{},27.0,92.5,Eurasia,,Sherdukpen,2076,False,False
+sherpa,,56,she,xsr,{},27.75,86.8333333333,Eurasia,,Sherpa,2077,False,False
+shina,,84,sna,scl,{},36.0,74.0,Eurasia,,Shina,2127,False,False
+shira yughur,,110,shy,yuy,{},38.0,99.0,Eurasia,,Shira Yughur,2091,False,False
+shompen,,501,smp,,{},7.0,93.75,Eurasia,,Shompen,2125,False,False
+shor,,83,shr,cjs,{},53.0,88.0,Eurasia,,Shor,2086,False,False
+shughni,,138,rsh,sgh,{},38.1666666667,71.5,Eurasia,,Shughni,2022,False,False
+shuri,,319,ryu,ryu,{},26.5,127.5,Eurasia,,Shuri,2035,False,False
+sikkimese,,56,skk,sip,{},27.8333333333,88.5,Eurasia,,Sikkimese,2103,False,False
+sindhi,,84,sdh,snd,{},26.0,69.0,Eurasia,,Sindhi,2055,False,False
+sinhala,,84,snh,sin,{},7.0,80.5,Eurasia,,Sinhala,2131,False,False
+slovak,,141,svk,slk,{},49.0,20.0,Eurasia,,Slovak,2189,False,False
+slovene,,141,slo,slv,{},46.0,15.0,Eurasia,,Slovene,2115,False,False
+slovincian,,141,svc,csb,{},54.0,16.0,Eurasia,,Slovincian,2188,False,False
+solon,,258,sol,evn,{},48.0,120.0,Eurasia,,Solon,2139,False,False
+sora,,129,sor,srb,{},20.0,84.3333333333,Eurasia,,Sora,2144,False,False
+sorbian,,141,srb,"dsb, hsb",{},51.5,14.0,Eurasia,,Sorbian,2153,False,False
+sorbian lower,,141,srl,dsb,{},51.75,14.3333333333,Eurasia,,Sorbian (Lower),2158,False,False
+sorbian upper,,141,sou,hsb,{},51.8333333333,14.5,Eurasia,,Sorbian (Upper),2145,False,False
+south korean sign language,,23,ssl,kvk,{},37.0,128.0,Eurasia,,South Korean Sign Language,2167,False,False
+spanish,,85,spa,spa,{},40.0,-4.0,Eurasia,,Spanish,2146,True,True
+spanish canary islands,,85,spc,spa,{},28.0,-15.5833333333,Eurasia,,Spanish (Canary Islands),2147,False,False
+spitian,,56,spi,bod,{},32.25,78.0,Eurasia,,Spitian,2148,False,False
+sre,,157,sre,kpm,{},11.5,108.0,Eurasia,,Sre,2156,False,False
+stieng,,157,sti,"sti, stt",{},11.8333333333,106.75,Eurasia,,Stieng,2171,False,False
+sui,,237,sui,swi,{},26.0,107.5,Eurasia,,Sui,2179,False,False
+sulung,,500,slg,suv,{},28.3333333333,93.25,Eurasia,,Sulung,2114,False,False
+svan,,272,sva,sva,{},43.0,42.5,Eurasia,,Svan,2187,False,False
+svenska teckenspraket,,23,svt,swl,{},59.0,15.0,Eurasia,,Svenska Teckenspråket,2191,False,False
+swedish,,27,swe,swe,{},60.0,15.0,Eurasia,,Swedish,2193,False,False
+swedish vasterbotten,,27,swv,swe,{},64.25,19.75,Eurasia,,Swedish (Västerbotten),2197,False,False
+tabassaran,,32,tbs,tab,{},41.8333333333,47.9166666667,Eurasia,,Tabassaran,2226,False,False
+tajik,,138,taj,tgk,{},38.6666666667,70.0,Eurasia,,Tajik,2206,False,False
+talysh azerbaijan,,138,taz,tly,{},38.75,48.6666666667,Eurasia,,Talysh (Azerbaijan),2219,False,False
+talysh southern,,138,tls,tly,{},37.0,49.0,Eurasia,,Talysh (Southern),2297,False,False
+tamang eastern,,56,tam,"taj, tge",{},27.5,85.666666666667,Eurasia,,Tamang (Eastern),2209,False,False
+tamil,,116,tml,tam,{},11.0,78.5,Eurasia,,Tamil,2303,False,False
+tamil spoken,,116,tsp,tam,{},11.0,78.0,Eurasia,,Tamil (Spoken),2372,False,False
+tangbe,,56,tbx,skj,{},28.9166666667,83.75,Eurasia,,Tangbe,2230,False,False
+tarao,,33,tao,tro,{},24.25,94.1666666667,Eurasia,,Tarao,2211,False,False
+tatar,,83,tvo,tat,{},56.0,49.5,Eurasia,,Tatar,2400,False,False
+tatar baraba,,83,ttb,tat,{},55.3333333333,78.3333333333,Eurasia,,Tatar (Baraba),2377,False,False
+tatar mishar,,83,tmi,tat,{},55.5,49.0,Eurasia,,Tatar (Mishar),2301,False,False
+tatarnoghay alabugat,,83,tlb,nog,{},47.4166666667,45.6666666667,Eurasia,,Tatar-Noghay (Alabugat),2290,False,False
+tati southern,,138,tts,tks,{},36.0,49.6666666667,Eurasia,,Tati (Southern),2381,False,False
+tat muslim,,138,tmu,ttt,{},41.25,48.75,Eurasia,,Tat (Muslim),2310,False,False
+telugu,,282,tel,tel,{},16.0,79.0,Eurasia,,Telugu,2238,False,False
+temiar,,312,tmr,tea,{},5.0,101.5,Eurasia,,Temiar,2308,False,False
+thadou,,33,thd,tcz,{},24.4166666667,93.9166666667,Eurasia,,Thadou,2259,False,False
+thai,,237,tha,tha,{},16.0,101.0,Eurasia,,Thai,2258,True,True
+thai sign language,,23,ths,tsq,{},15.0,101.0,Eurasia,,Thai Sign Language,2264,False,False
+thakali,,56,thk,ths,{},29.0,83.75,Eurasia,,Thakali,2260,False,False
+thangmi,,88,thn,thf,{},27.75,86.0,Eurasia,,Thangmi,2261,False,False
+thulung,,88,thu,tdh,{},27.4166666667,86.5,Eurasia,,Thulung,2266,False,False
+tibetan dingri,,56,tdi,bod,{},28.5,86.5,Eurasia,,Tibetan (Dingri),2233,False,False
+tibetan drokpa,,56,tdr,bod,{},32.25,81.25,Eurasia,,Tibetan (Drokpa),2234,False,False
+tibetan modern literary,,56,tmo,bod,{},29.8333333333,91.5,Eurasia,,Tibetan (Modern Literary),2306,False,False
+tibetan shigatse,,56,tis,bod,{},29.0,89.0,Eurasia,,Tibetan (Shigatse),2280,False,False
+tibetan standard spoken,,56,tib,bod,{},30.0,91.0,Eurasia,,Tibetan (Standard Spoken),2270,False,False
+tinani,,56,tni,lbf,{},32.3333333333,77.1666666667,Eurasia,,Tinani,2317,False,False
+tindi,,74,tnd,tin,{},42.3666666667,46.25,Eurasia,,Tindi,2314,False,False
+tod,,56,tod,sbu,{},32.4166666667,77.25,Eurasia,,Tod,2328,False,False
+toda,,116,tda,tcx,{},11.4166666667,76.75,Eurasia,,Toda,2232,False,False
+tofa,,83,tof,kim,{},53.75,98.0,Eurasia,,Tofa,2329,False,False
+torwali,,84,trw,trw,{},34.25,72.0,Eurasia,,Torwali,2358,False,False
+tsakhur,,32,tsa,tkr,{},41.6666666667,47.1666666667,Eurasia,,Tsakhur,2360,False,False
+tsat,,14,tst,huq,{},18.25,109.5,Eurasia,,Tsat,2374,False,False
+tsez,,74,tsz,ddo,{},42.25,45.75,Eurasia,,Tsez,2376,False,False
+tshangla,,56,tgl,tsj,{},27.8333333333,92.1666666667,Eurasia,,Tshangla,2252,False,False
+tsovatush,,186,ttu,bbl,{},42.5,45.5,Eurasia,,Tsova-Tush,2382,False,False
+tulu,,116,tul,tcy,{},12.75,75.3333333333,Eurasia,,Tulu,2390,False,False
+turkic eastcentral xorasan,,83,tex,kmz,{},37.0,59.0,Eurasia,,Turkic (East-Central Xorasan),2247,False,False
+turkic west xorasan,,83,twx,kmz,{},36.6666666667,56.0,Eurasia,,Turkic (West Xorasan),2406,False,False
+turk isaret dili,,23,tui,tsm,{},39.0,34.0,Eurasia,,Türk Isaret Dili,2388,False,False
+turkish,,83,tur,tur,{},39.0,35.0,Eurasia,,Turkish,2394,True,True
+turkmen,,83,tkm,tuk,{},40.0,58.0,Eurasia,,Turkmen,2287,False,False
+tutsa,,188,tvt,tvt,{},27.5,96.5,Eurasia,,Tutsa,2401,False,False
+tuvan,,83,tuv,tyv,{},52.0,95.0,Eurasia,,Tuvan,2397,False,False
+ubykh,,7,uby,uby,{},43.6666666667,39.6666666667,Eurasia,,Ubykh,2415,False,False
+udi,,32,udi,udi,{},41.0,48.0,Eurasia,,Udi,2417,False,False
+udihe,,258,udh,ude,{},47.6666666667,136.25,Eurasia,,Udihe,2416,False,False
+udmurt,,359,udm,udm,{},57.5,52.5,Eurasia,,Udmurt,2418,False,False
+ukrainian,,141,ukr,ukr,{},49.0,33.0,Eurasia,,Ukrainian,2421,False,False
+ulcha,,258,ulc,ulc,{},52.25,140.333333333,Eurasia,,Ulcha,2423,False,False
+urak lawoi,,14,url,urk,{},8.0,98.3333333333,Eurasia,,Urak Lawoi',2438,False,False
+urdu,,84,urd,urd,{},25.0,67.0,Eurasia,,Urdu,2434,False,False
+urum,,83,urm,uum,{},47.1166666667,37.55,Eurasia,,Urum,2439,False,False
+uyghur,,83,uyg,uig,{},40.0,80.0,Eurasia,,Uyghur,2447,False,False
+uzbek,,83,uzb,"uzn, uzs",{},39.0,66.0,Eurasia,,Uzbek,2448,False,False
+uzbek northern,,83,uzn,uzn,{},40.6666666667,66.5,Eurasia,,Uzbek (Northern),2449,False,False
+vafsi,,138,vaf,vaf,{},34.6666666667,49.9166666667,Eurasia,,Vafsi,2450,False,False
+vasavi,,84,vas,vas,{},24.5,71.5,Eurasia,,Vasavi,2453,False,False
+vedda,,84,ved,ved,{},7.0,81.0,Eurasia,,Vedda,2455,False,False
+veps,,256,vep,vep,{},60.0,35.0,Eurasia,,Veps,2457,False,False
+vietnamese,,432,vie,vie,{},10.5,106.5,Eurasia,,Vietnamese,2458,True,True
+vlaamse gebarentaal,,23,vla,vgt,{},51.0,4.0,Eurasia,,Vlaamse Gebarentaal,2461,False,False
+votic,,256,vot,vot,{},59.5,30.0,Eurasia,,Votic,2463,False,False
+waigali,,370,wgl,wbk,{},35.0,71.25,Eurasia,,Waigali,2489,False,False
+wakhi,,138,wak,wbl,{},36.5,72.0,Eurasia,,Wakhi,2467,False,False
+wambule,,88,wme,wme,{},29.25,85.9166666667,Eurasia,,Wambule,2504,False,False
+welsh,,162,wel,cym,{},52.0,-3.0,Eurasia,,Welsh,2484,False,False
+welsh colloquial,,162,wec,cym,{},52.75,-3.5833,Eurasia,,Welsh (Colloquial),2482,False,False
+wu,,204,wuc,wuu,{},31.6666666667,119.916666667,Eurasia,,Wu,2534,False,False
+yaghnobi,,138,ygn,yai,{},39.0,69.0,Eurasia,,Yaghnobi,2580,False,False
+yakut,,83,ykt,sah,{},62.0,130.0,Eurasia,,Yakut,2594,False,False
+yamphu,,88,ybi,ybi,{},27.5833333333,87.3333333333,Eurasia,,Yamphu,2567,False,False
+yay,,237,yay,pcc,{},22.4166666667,104.75,Eurasia,,Yay,2564,False,False
+yazgulyam,,138,yaz,yah,{},38.5,71.5,Eurasia,,Yazgulyam,2565,False,False
+yazva,,359,yzv,kpv,{},65.0,55.0,Eurasia,,Yazva,2633,False,False
+yiddish,,27,ydd,"ydd, yih",{},52.0,23.0,Eurasia,,Yiddish,2572,False,False
+yiddish bessarabian,,27,ydb,ydd,{},47.0,28.5,Eurasia,,Yiddish (Bessarabian),2571,False,False
+yiddish lithuanian,,27,ylt,ydd,{},55.0,25.0,Eurasia,,Yiddish (Lithuanian),2599,False,False
+yiddish lodz,,27,ydl,ydd,{},51.75,19.4166666667,Eurasia,,Yiddish (Lodz),2573,False,False
+yi wudingluquan,,20,yiw,ywq,{},25.5,102.5,Eurasia,,Yi (Wuding-Luquan),2588,False,False
+yugh,,335,yug,yug,{},61.0,90.0,Eurasia,,Yugh,2622,False,False
+yukaghir kolyma,,556,yko,yux,{},65.75,150.833333333,Eurasia,,Yukaghir (Kolyma),2592,False,True
+yukaghir tundra,,556,ytu,ykg,{},69.0,155.0,Eurasia,,Yukaghir (Tundra),2620,False,False
+yupik naukan,,91,yna,ynk,{},66.0,-172.0,Eurasia,,Yupik (Naukan),2603,False,False
+yupik siberian,,91,yus,ess,{},65.0,-173.0,Eurasia,,Yupik (Siberian),2627,False,False
+yupik sirenik,,91,ysi,ysr,{},64.5,-174.0,Eurasia,,Yupik (Sirenik),2617,False,False
+yupik st lawrence island,,91,ysl,ess,{},63.5,-170.5,Eurasia,,Yupik (St. Lawrence Island),2618,False,False
+yurt tatar,,83,yta,nog,{},46.3333333333,48.5,Eurasia,,Yurt Tatar,2619,False,False
+zazaki,,138,zaz,diq,{},39.0,41.0,Eurasia,,Zazaki,2643,False,False
+zhuang northern,,237,zhn,zgb,{},24.0,108.0,Eurasia,,Zhuang (Northern),2647,False,False
