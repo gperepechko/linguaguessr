@@ -1,10 +1,3 @@
-# import pandas as pd
-# df = pd.read_csv('Languages.csv')
-# language = set(df['ascii_name'])
-# lat = set(df['latitude'])
-# lngt = set(df['longitude'])
-# coordinates = dict{language}
-
 def distance(x1, x2, y1, y2):
     x_dist = abs(x1 - x2)
     if x_dist > 180:

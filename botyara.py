@@ -13,13 +13,6 @@ def start_message(message):
     global games
     games[message.chat.id] = Game(debug=DEBUG)
 
-# @bot.message_handler(commands=['button'])
-# def button_message(message):
-#     markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
-#     item1=types.KeyboardButton("Start")
-#     markup.add(item1)
-#     bot.send_message(message.chat.id,'Выберите что вам надо',reply_markup=markup)
-
 @bot.message_handler(content_types='text')
 def message_reply(message):
     global games
@@ -40,7 +33,7 @@ def message_reply(message):
         return
     status = g.make_guess(message.text)
     if not status:
-        bot.send_message(message.chat.id,"This language does not exist")
+        bot.send_message(message.chat.id,"I don't know such language")
         return
     bot.send_message(message.chat.id,status)
 bot.infinity_polling()
