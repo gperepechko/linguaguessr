@@ -9,7 +9,7 @@ bot=telebot.TeleBot(token)
 @bot.message_handler(commands=['start'])
 def start_message(message):
     bot.send_message(message.chat.id,"Welcome to Linguaguessr! I am thinking of a certain language. Can you guess which one it is?\n" +
-    "Send me 'Begin' to start a new game")
+    "Send me 'Begin' to start a new game. Send 'End' to stop.")
     global games
     games[message.chat.id] = Game(debug=DEBUG)
 
