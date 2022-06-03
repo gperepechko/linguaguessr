@@ -12,7 +12,6 @@ class Game:
         for i in range(len(df)):
             row = df.iloc[i]
             self.langloc[row['ascii_name']] = (row['latitude'],row['longitude'])
-        self.shortestdist = None
         self.status = 'run'
         if debug:
             print(self.language, self.langloc[self.language])
@@ -30,8 +29,6 @@ class Game:
         x1, y1 = self.langloc[self.language]
         x2, y2 = self.langloc[lang]
         dist = distance(x1, x2, y1, y2)
-        # if not self.shortestdist:
-        #     self.shortestdist = dist
         if 87.82084035125149 <= dist:
             return 'Very Cold'
         elif 70.25667228100119 <= dist:
@@ -44,10 +41,3 @@ class Game:
             return 'Hot'
         elif dist < 17.564168070250297:
             return 'Very Hot'
-
-        # else:
-        #     if dist < self.shortestdist:
-        #         self.shortestdist = dist
-        #         return 'Warmer'
-        #     else:
-        #         return 'Colder'
