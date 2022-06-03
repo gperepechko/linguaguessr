@@ -32,13 +32,21 @@ class Game:
         dist = distance(x1, x2, y1, y2)
         if not self.shortestdist:
             self.shortestdist = dist
-            if dist < 30:
-                return 'Warm'
-            else:
+            if 87.82084035125149 <= dist:
+                return 'Very Cold'
+            elif 70.25667228100119 <= dist:
                 return 'Cold'
-        else:
-            if dist < self.shortestdist:
-                self.shortestdist = dist
-                return 'Warmer'
-            else:
-                return 'Colder'
+            elif 52.69250421075089 <= dist:
+                return 
+            elif 35.12833614050059 <= dist:
+                return 'Warm'
+            elif 17.564168070250297 <= dist:
+                return 'Hot'
+            elif dist < 17.564168070250297:
+                return 'Very Hot'
+        # else:
+        #     if dist < self.shortestdist:
+        #         self.shortestdist = dist
+        #         return 'Warmer'
+        #     else:
+        #         return 'Colder'

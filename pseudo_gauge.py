@@ -1,3 +1,5 @@
+import pandas as pd
+
 sample100 = pd.read_csv('sample100.csv')
 lat_max = sample100["latitude"].max()
 lat_min = sample100["latitude"].min()
@@ -17,3 +19,4 @@ def distance(x1, x2, y1, y2):
 max_dist = distance(lat_max, lat_min, long_max, long_min)
 segment = max_dist / 6
 dist = {segment: "Very Hot", (segment*2): "Hot", (segment*3): "Warm", (segment*4): "Cool", (segment*5): "Cold", (segment*6): "Very Cold"}
+print(dist)
