@@ -30,20 +30,21 @@ class Game:
         x1, y1 = self.langloc[self.language]
         x2, y2 = self.langloc[lang]
         dist = distance(x1, x2, y1, y2)
-        if not self.shortestdist:
-            self.shortestdist = dist
-            if 87.82084035125149 <= dist:
-                return 'Very Cold'
-            elif 70.25667228100119 <= dist:
-                return 'Cold'
-            elif 52.69250421075089 <= dist:
-                return 
-            elif 35.12833614050059 <= dist:
-                return 'Warm'
-            elif 17.564168070250297 <= dist:
-                return 'Hot'
-            elif dist < 17.564168070250297:
-                return 'Very Hot'
+        # if not self.shortestdist:
+        #     self.shortestdist = dist
+        if 87.82084035125149 <= dist:
+            return 'Very Cold'
+        elif 70.25667228100119 <= dist:
+            return 'Cold'
+        elif 52.69250421075089 <= dist:
+            return 'Cool'
+        elif 35.12833614050059 <= dist:
+            return 'Warm'
+        elif 17.564168070250297 <= dist:
+            return 'Hot'
+        elif dist < 17.564168070250297:
+            return 'Very Hot'
+
         # else:
         #     if dist < self.shortestdist:
         #         self.shortestdist = dist
