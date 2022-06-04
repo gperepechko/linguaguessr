@@ -1,5 +1,5 @@
 # @linguaguessr
-Telegram bot game by the students of HSE
+Telegram bot game by the students of HSE *V. 1.0 Alpha in development*
 ## HOW TO PLAY
 1. Send `Begin` to start the game
 2. Bot will make a guess of a language
